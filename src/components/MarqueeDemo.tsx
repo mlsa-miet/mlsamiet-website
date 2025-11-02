@@ -57,6 +57,33 @@ const reviews = [
     body: "Designing my way through life✨—Hey fellows, I'm SAKSHI! Being a part of MLSA community as a Graphic Design Head has been an incredible blend of creativity, teamwork, and growth. It gave me a wide platform to learn, experiment and collaborate with like-minded individuals who are equally passionate about design and technology.",
     img: "https://avatar.vercel.sh/james",
   },
+  {
+    name:"Anmol Kumar",
+    username:"Ex-Graphics Head, MLSA MIET 2024-25",
+    body:"Being part of MLSA-MIET has been a truly transformative journey. It has helped me grow as a leader, explore new opportunities, and empower others through knowledge sharing. MLSA connected me with inspiring peers and professionals worldwide, fostering learning, collaboration, and growth. I’m grateful for the platform, the experiences, and the family it has given me—one of the most rewarding chapters of my student life."
+  },
+  {
+    name:"Muskan Jain",
+    username:"Ex-Lead, MLSA MIET 2024-25",
+    body:"Being part of MLSA MIET has been a true turning point in my journey. It pushed me beyond my comfort zone, helped me explore new technologies, lead events, and connect with inspiring people. Every experience shaped me as both a learner and a leader. I’ve learned that opportunities aren’t found—they’re created. To my juniors: stay curious, be fearless, and embrace every chance to learn and share—this community can shape you in ways you can’t imagine."
+  },
+  {
+    name:"Tanushka Kashyap",
+    username:"Ex-Content Head, MLSA MIET, 2024-25",
+    body:"Being the Content Head at MLSA MIET has been one of the most rewarding parts of my journey. It was more than creating content—it was about giving voice to the community and telling stories that inspire. MLSA became a family where creativity and collaboration thrived. This experience honed my skills, built lasting friendships, and became a cornerstone of my growth."
+  },
+  {
+    name:"Yagyansh Singh Deshwal",
+    username:"Ex-Head of Operations, MLSA MIET 2024-25",
+    body:"MLSA MIET has always felt less like a community and more like a lively squad that comes together to pull off amazing events, share ideas, and create memories along the way. To the new team — keep the energy buzzing, make every event feel welcoming, and don’t forget to enjoy the process as much as the outcome. At the end of the day, it’s the laughter, teamwork, and those “we actually did it!” moments that make MLSA MIET truly special."
+  },
+  {
+    name:"Pari Agarwal",
+    username:"External Outreach Head, MLSA MIET 2024-25",
+    body:"My journey with MLSA has been one of the most defining parts of my college life. The experiences, learnings, and countless memories with the MLSA community have not only helped me grow professionally but also given me bonds and moments I’ll always cherish. Truly grateful to have been a part of this inspiring family."
+  },
+
+
 ];
 
 const firstRow = reviews.slice(0, reviews.length / 2);
