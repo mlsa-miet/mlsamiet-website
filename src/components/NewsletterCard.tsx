@@ -34,6 +34,54 @@ function SingleCard({ title, description, link, icon }: NewsletterCardProps) {
 export function NewsletterCards() {
   const newsletters = [
     {
+      title: "October '25",
+      description: "Explore key updates and exciting accomplishments from October 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/14th-edition-of-mlsa-miet-chronicles-october-2025-78a5f2cd-c4dc-4d48-acb7-b3c0281537fe",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "September '25",
+      description: "Explore key updates and exciting accomplishments from September 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/13th-edition-of-mlsa-miet-chronicles-september-2025",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "August '25",
+      description: "Explore key updates and exciting accomplishments from August 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/12th-edition-of-mlsa-miet-chronicles",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "July '25",
+      description: "Explore key updates and exciting accomplishments from July 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/11th-edition-of-mlsa-miet-chronicles-july-2025",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "June '25",
+      description: "Explore key updates and exciting accomplishments from June 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/10th-edition-of-mlsa-miet-chronicles-june-2025",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "May '25",
+      description: "Explore key updates and exciting accomplishments from May 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/9th-edition-of-mlsa-miet-chronicles-may-2025",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "April '25",
+      description: "Explore key updates and exciting accomplishments from April 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/8th-edition-of-mlsa-miet-chronicles",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
+      title: "March '25",
+      description: "Explore key updates and exciting accomplishments from March 2025.",
+      link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/7th-edition-of-mlsa-miet-newsletters",
+      icon: <Newspaper className="w-full h-full" />,
+    },
+    {
       title: "February '25",
       description: "Explore key updates and exciting accomplishments from February 2025.",
       link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/6th-edition-of-mlsa-miet-newsletters",
@@ -73,7 +121,7 @@ export function NewsletterCards() {
 
       <div className="bg-gray-100 py-8 px-4">
         <div className="max-w-7xl mx-auto">
-          <div className="flex flex-col md:flex-row items-center justify-center gap-8">
+          <div className=" grid grid-rows-4 grid-cols-3 gap-2 items-center justify-center gap-8">
             {newsletters.map((newsletter, index) => (
               <SingleCard key={index} {...newsletter} />
             ))}
