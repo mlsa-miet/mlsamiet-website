@@ -176,11 +176,16 @@ export const CardSocials = ({
     href={socials.commudle}
     target="_blank"
     rel="noopener noreferrer"
-    className="text-blue-600 hover:text-blue-800 transition-colors duration-300"
+    className="transition-transform duration-300 hover:scale-110"
   >
-    <Commudle />
+    <img
+      src="/commudle.svg"
+      alt="Commudle"
+      className="w-6 h-6 sm:w-7 sm:h-7 text-blue-600 hover:text-blue-800"
+    />
   </a>
 )}
+
 
   </div>
 );
