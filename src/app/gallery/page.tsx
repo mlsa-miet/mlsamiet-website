@@ -41,7 +41,7 @@ const avasarImagesArray = [
 const funMeetArray = [
   "https://res.cloudinary.com/davfze0e8/image/upload/v1762261068/EVENT_PHOTO/fun%20meet/IMG_0295.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1762261069/EVENT_PHOTO/fun%20meet/IMG_0297.jpg",
-   "https://res.cloudinary.com/davfze0e8/image/upload/v1762261075/EVENT_PHOTO/fun%20meet/IMG_0318.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1762261075/EVENT_PHOTO/fun%20meet/IMG_0318.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1762261072/EVENT_PHOTO/fun%20meet/IMG_0317.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1762261079/EVENT_PHOTO/fun%20meet/IMG_0331.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1762261082/EVENT_PHOTO/fun%20meet/IMG_0337.jpg",
@@ -86,28 +86,20 @@ const samaarambhArray = [
 ];
 
 
-
-
 const avasar2ImagesArray = [
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763106390/IMG20250902145313_ta2f0z.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763108280/IMG_7925_duogx1.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106390/IMG20250902145313_ta2f0z.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106303/IMG_7894_tbyl2j.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763108289/IMG-20250902-WA0049_yd3jxv.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106395/IMG-20250902-WA0061_xjm8ir.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763106432/IMG_8071_gydhlp.jpg",
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763106303/IMG_7894_tbyl2j.jpg",
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763108289/IMG-20250902-WA0049_yd3jxv.jpg",
-
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763106395/IMG-20250902-WA0061_xjm8ir.jpg",
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763108280/IMG_7925_duogx1.jpg",
-   "https://res.cloudinary.com/davfze0e8/image/upload/v1763108288/IMG-20250902-WA0057_izyyj8.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763108288/IMG-20250902-WA0057_izyyj8.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763108283/IMG_8024_f84kr1.jpg",
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763106382/IMG_8057_ave836.jpg",
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763106395/IMG-20250902-WA0061_xjm8ir.jpg",
-
- "https://res.cloudinary.com/davfze0e8/image/upload/v1763106366/IMG_8056_gqepfk.jpg",
-
-
-
-
-
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106382/IMG_8057_ave836.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106395/IMG-20250902-WA0061_xjm8ir.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106366/IMG_8056_gqepfk.jpg",
 ];
+
 
 // Combine all images into one array
 
@@ -267,8 +259,9 @@ const Gallery = () => {
 
 
 
-       <section id="avasar2">
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-5 text-center mt-10  text-[#203A61]">
+
+      <section id="avasar-2">
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-5 mt-10 text-center  text-[#203A61]">
           <TextAnimate>
 
             AVSAR 2.O
@@ -287,7 +280,6 @@ const Gallery = () => {
           ))}
         </div>
       </section>
-
 
     </div>
   );
