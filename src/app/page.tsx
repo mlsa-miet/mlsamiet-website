@@ -60,7 +60,7 @@ const testimonials = [
     quote:
       "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
     name: "Aayushi",
-    designation: "Socials Head",
+    designation: "Tech Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/aayushi1.jpg", 
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
@@ -158,7 +158,7 @@ email: "asit.upadhyay793@gmail.com",
    quote:
      "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
     name: "Yojit Tyagi",
-    designation: "Workflow Head",
+    designation: "Visuals Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/visuals2.jpg",
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
