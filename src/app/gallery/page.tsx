@@ -86,6 +86,7 @@ const samaarambhArray = [
 ];
 
 
+
 const avasar2ImagesArray = [
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763108280/IMG_7925_duogx1.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763106390/IMG20250902145313_ta2f0z.jpg",
@@ -95,8 +96,8 @@ const avasar2ImagesArray = [
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763106432/IMG_8071_gydhlp.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763108288/IMG-20250902-WA0057_izyyj8.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763108283/IMG_8024_f84kr1.jpg",
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1763108286/IMG-20250902-WA0054_o16hrt.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763106382/IMG_8057_ave836.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1763106395/IMG-20250902-WA0061_xjm8ir.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1763106366/IMG_8056_gqepfk.jpg",
 ];
 
@@ -109,6 +110,30 @@ const Gallery = () => {
 
 
 
+
+      <section id="avasar-2">
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-5 mt-10 text-center  text-[#203A61]">
+          <TextAnimate>
+
+            AVSAR 2.O
+          </TextAnimate>
+        </h1>
+        <div className="columns-2 sm:columns-3 lg:columns-4 gap-3 sm:gap-4 [&>div:not(:first-child)]:mt-3 sm:[&>div:not(:first-child)]:mt-4">
+          {avasar2ImagesArray.map((image, index) => (
+            <div key={index} className="break-inside-avoid">
+              <img
+                className="w-full h-auto rounded-[10px] hover:opacity-90 transition-opacity duration-300 shadow-sm hover:shadow-md"
+                src={image}
+                alt={`Event image ${index + 1}`}
+                loading="lazy"
+              />
+            </div>
+          ))}
+        </div>
+      </section>
+
+
+      
       <section id="devgathering">
         <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold my-8 text-center text-[#203A61] secondary">
           <TextAnimate>
@@ -259,27 +284,6 @@ const Gallery = () => {
 
 
 
-
-      <section id="avasar-2">
-        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold mb-5 mt-10 text-center  text-[#203A61]">
-          <TextAnimate>
-
-            AVSAR 2.O
-          </TextAnimate>
-        </h1>
-        <div className="columns-2 sm:columns-3 lg:columns-4 gap-3 sm:gap-4 [&>div:not(:first-child)]:mt-3 sm:[&>div:not(:first-child)]:mt-4">
-          {avasar2ImagesArray.map((image, index) => (
-            <div key={index} className="break-inside-avoid">
-              <img
-                className="w-full h-auto rounded-[10px] hover:opacity-90 transition-opacity duration-300 shadow-sm hover:shadow-md"
-                src={image}
-                alt={`Event image ${index + 1}`}
-                loading="lazy"
-              />
-            </div>
-          ))}
-        </div>
-      </section>
 
     </div>
   );
