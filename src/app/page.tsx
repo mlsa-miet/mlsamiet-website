@@ -4,7 +4,7 @@ import { MagicCardDemo } from "@/components/MagicCardDemo";
 import { MarqueeDemo } from "@/components/MarqueeDemo";
 import { AnimatedTestimonialsDemo } from "@/components/AnimatedTestimonials";
 import Cards from "@/components/cards";
-import { NewsletterCards } from "@/components/NewsletterCard";
+import NewsletterCard from "@/components/NewsletterCard";
 import SponsorsSection from "@/components/sponsers";
 
 const testimonials = [
@@ -162,7 +162,7 @@ export default function Home() {
     <div>
       <SpotlightNewDemo />
       <Cards />
-      <NewsletterCards />
+      <NewsletterCard />
       <MarqueeDemo />
       <AnimatedTestimonialsDemo
         testimonials={testimonials}
