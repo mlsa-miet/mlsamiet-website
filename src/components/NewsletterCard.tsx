@@ -197,7 +197,7 @@ const NewsletterCard = () => {
     );
   };
 
-  const getPositionClasses = (index) => {
+  const getPositionClasses = (index:any) => {
     const prevIndex = (activeIndex - 1 + elements.length) % elements.length;
     const nextIndex = (activeIndex + 1) % elements.length;
 
