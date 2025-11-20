@@ -13,7 +13,7 @@ const technicalTeam = [
   },
   {
     name: "Rakshit Shekhawat",
-    imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Rakshit_shekhawat_Technical.jpg",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Rakshit_shekhawat _Technical.jpg",
   },
   {
     name: "Manu Chauhan",
@@ -29,7 +29,7 @@ const technicalTeam = [
   },
    {
     name: "Vani Chaudhary",
-    imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Vani Chaudhary_Technical.jpg",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Vani Chaudhary _ Technical .jpg",
   },
     {
     name: "Shant Chauhan",
@@ -38,6 +38,10 @@ const technicalTeam = [
     {
     name: "Rudra Chaudhary",
     imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Rudra Chaudhary_Technical.jpg",
+  },
+  {
+    name: "Azan Ali",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Azanalimlsa.jpg",
   },
 ];
 
@@ -49,18 +53,18 @@ const graphicsTeam = [
   },
   {
     name: "Arpit Sharma",
-    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Arpit Kumar Sharma_Graphics .jpg",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Arpit Kumar Sharma _Graphics .jpg",
     imagePosition: "top" as const,
 
   },
   {
     name: "Anushka Garg",
-    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Anushka Garg_Graphics .jpg",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Anushka Garg _Graphics .jpg",
     imagePosition: "top" as const,
   },
   {
     name: "Rupal Agrawal",
-    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Rupal Agrawal_Graphics.jpg",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Rupal Agrawal _Graphics.jpg",
   },
   {
     name: "Tanu Chauhan",
@@ -77,7 +81,7 @@ const graphicsTeam = [
   },
   {
     name: "Satyam Sharma",
-    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Satyam Sharma_Graphics.heic",
+    imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Satyam Sharma_Graphics.webp",
   },
 ];
 
@@ -91,7 +95,7 @@ const contentTeam = [
   {
     name: "Pari",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/Content team/IMG_20250211_172808.jpg",
+      "/MLSA_WEBSITE/volunteer_photo/Content team/Pari_Content.jpg",
     imagePosition: "top" as const,
 
   },
@@ -103,7 +107,7 @@ const contentTeam = [
   {
     name: "Srishti",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/Content team/Srishti .jpg",
+      "/MLSA_WEBSITE/volunteer_photo/Content team/Srishti_Content .jpg",
   },
    {
     name: "Bhumi Arora",
@@ -178,7 +182,7 @@ const prTeam = [
   {
     name: "Ansh Goyal",
     imageUrl:
-      "/MLSA_WEBSITE/Domain_Heads_photo/PR team/AnshGoyal.webp",
+      "/MLSA_WEBSITE/Domain_Heads_photo/AnshGoyal.webp",
   },
 {
   name: "Deepika Panwar",
@@ -195,7 +199,7 @@ const prTeam = [
 {
   name: "Mahak Rana",
     imageUrl:
-  "/MLSA_WEBSITE/volunteer_photo/PR team/IMG-2051107-WA0021.jpg",
+  "/MLSA_WEBSITE/volunteer_photo/PR team/IMG-20251107-WA0021.jpg",
 
   },
 {
@@ -213,7 +217,7 @@ const prTeam = [
   {
   name: "Gaurika Dogra",
     imageUrl:
-  "/MLSA_WEBSITE/volunteer_photo/PR team/Gaurika Dogra_PR&Outreach .jpg",
+  "/MLSA_WEBSITE/volunteer_photo/PR team/Gaurika Dogra _PR&Outreach .jpg",
   },
   {
   name: "Divyanshi",
@@ -248,6 +252,11 @@ const socialTeam = [
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/social team/SamiyaShariq_Socials.jpg",
   },
+  {
+    name: "Vansh Pal",
+    imageUrl:
+      "/MLSA_WEBSITE/volunteer_photo/social team/Vanshpalsocialmlsa.jpg",
+  },
 ];
 
 const visualTeam = [
@@ -264,7 +273,7 @@ const visualTeam = [
   {
     name: "Aryan Choudhary",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/visual team/IMG_1243.HEIC",
+      "/MLSA_WEBSITE/volunteer_photo/visual team/AryanVisuals.webp"
   },
   {
     name: "Vansh Yadav",
@@ -282,7 +291,7 @@ const workflowTeam = [
   {
     name: "Shaurya Pratap",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/workflow  team/Shaurya Pratap Gaur_Workflow.jpg",
+      "/MLSA_WEBSITE/volunteer_photo/workflow team/Shaurya Pratap Gaur_Workflow.jpg",
   },
   {
     name: "Tannu Kumari",
@@ -297,12 +306,12 @@ const workflowTeam = [
   {
     name: "Lakshya Agarwal",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/workflow team/Lakshya Agarwal_Workflow.jpg",
+      "/MLSA_WEBSITE/volunteer_photo/workflow team/Lakshya Agarwal __Workflow.jpg",
   },
   {
     name: "Yug Jain",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/workflow team/Yug Jain_workflow.jpg",
+      "/MLSA_WEBSITE/volunteer_photo/workflow team/Yug Jain.jpg",
   },
 ];
 
@@ -355,7 +364,7 @@ export function Teams() {
         <h2 className="text-xl sm:text-4xl font-bold mb-8 text-[#203A61] secondary">Public Relations & Outreach</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {prTeam.map((member, index) => (
-            <TeamMember key={member.name} {...member} isFirst={index === 0} />
+            <TeamMember key={member.name} {...member} isFirst={index < 2} />
           ))}
         </div>
       </section>
@@ -364,7 +373,7 @@ export function Teams() {
         <h2 className="text-xl sm:text-4xl font-bold mb-8 text-[#203A61] secondary">Technical Team</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
           {technicalTeam.map((member, index) => (
-            <TeamMember key={member.name} {...member} isFirst={index === 0} />
+            <TeamMember key={member.name} {...member} isFirst={index < 2}/>
           ))}
         </div>
       </section>
