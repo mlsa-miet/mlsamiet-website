@@ -30,8 +30,8 @@ const Footer = () => {
         <div className="flex flex-col sm:flex-row mb-4 md:mb-0 sm:w-1/2 primary"> 
           <div className="mb-4 md:mb-0 sm:w-1/2 font-semibold flex flex-col">
             <h3 className="font-semibold mb-4 primary text-primary">CONTACT US:</h3>
-            <a href="mailto:pari.agarwal.cseds.2022@miet.ac.in" className="secondary">pari.agarwal.cseds.2022@miet.ac.in</a>
-{/*             <a href="mailto:kunj.agarwal.cse.2022@miet.ac.in" className="secondary">kunj.agarwal.cse.2022@miet.ac.in</a> */}
+            <a href="mailto:prafullit.bhattacharya.cseds.2023@miet.ac.in" className="secondary">prafullit.bhattacharya.cseds.2023@miet.ac.in</a>
+            <a href="mailto: ansh.goyal.cseaiml.2024@miet.ac.in" className="secondary"> ansh.goyal.cseaiml.2024@miet.ac.in</a> 
             <a href="mailto:mlsa.community@miet.ac.in" className="secondary">mlsa.community@miet.ac.in</a>
           </div>
 
