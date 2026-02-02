@@ -103,17 +103,38 @@ const avasar2ImagesArray = [
 
 
 const SalesForceEventArray = [
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040099/IMG_20251103_142406_gsmvcj.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040097/IMG_20251103_141033_ht593i.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040091/IMG_1852_y5vhdg.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040094/Copy_of_IMG_1836_efwels.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040099/IMG_20251103_131658_ffkpp1.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040472/IMG_1903_roo277.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040086/IMG_1837_rnknrj.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040086/Copy_of_IMG_1899_ndimgr.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040092/Copy_of_IMG_1826_lu1jgz.jpg",
-  "https://res.cloudinary.com/davfze0e8/image/upload/v1770040773/IMG_20251103_140758_1_rjkltd.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040099/IMG_20251103_142406_gsmvcj.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040097/IMG_20251103_141033_ht593i.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040091/IMG_1852_y5vhdg.jpg",
 
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040094/Copy_of_IMG_1836_efwels.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040099/IMG_20251103_131658_ffkpp1.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040472/IMG_1903_roo277.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040086/IMG_1837_rnknrj.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040086/Copy_of_IMG_1899_ndimgr.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040092/Copy_of_IMG_1826_lu1jgz.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770040773/IMG_20251103_140758_1_rjkltd.jpg",
+
+
+];
+
+const samaarambh3Array = [
+  "https://res.cloudinary.com/davfze0e8/image/upload/v1770048071/IMG_2092_1_ubcb3w.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045499/IMG_2229_er5blv.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045507/IMG_2527_pzqoyy.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045479/IMG_2145_cko9fo.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770046933/IMG-20251123-WA0274_v8jqel.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770046898/IMG_2313_jlsp6b.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045507/IMG_2509_cefit4.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045500/IMG_2477_faj2wo.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770047758/IMG_2358_kfz8ca.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045496/IMG_2474_yunrvn.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045486/IMG_2127_gkyzie.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770048185/IMG_2297_jgkmn4.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045486/IMG_2140_ijp0mj.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770047730/IMG_2454_vu7ldh.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770048290/IMG_2203_ojlrrz.jpg",
+"https://res.cloudinary.com/davfze0e8/image/upload/v1770045497/IMG_2466_g785sn.jpg"
 
 ];
 // Combine all images into one array
@@ -296,7 +317,26 @@ const Gallery = () => {
         </div>
       </section>
 
+<section id="samaarambh3">
+        <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold my-8 text-center text-[#203A61] secondary">
+          <TextAnimate>
 
+            SAMAARAMBH3 3.O
+          </TextAnimate>
+        </h1>
+        <div className="columns-2 sm:columns-3 lg:columns-4 gap-3 sm:gap-4 [&>div:not(:first-child)]:mt-3 sm:[&>div:not(:first-child)]:mt-4">
+          {samaarambh3Array.map((image, index) => (
+            <div key={index} className="break-inside-avoid">
+              <img
+                className="w-full h-auto rounded-[10px] hover:opacity-90 transition-opacity duration-300 shadow-sm hover:shadow-md"
+                src={image}
+                alt={`Event image ${index + 1}`}
+                loading="lazy"
+              />
+            </div>
+          ))}
+        </div>
+      </section>
 
 
     </div>
