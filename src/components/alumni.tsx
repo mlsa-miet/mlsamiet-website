@@ -1,6 +1,15 @@
 
 
+
+
+
+
+
+
+
+
 "use client";
+
 import { HoverEffect } from "@/components/ui/card-hover-effect";
  import { TextAnimate } from "./magicui/text-animate";
 
@@ -23,7 +32,7 @@ export const alumniData = [
     title: "Yash Gupta",
     description:
       "Lead, passionate about AWS, development, and scalable applications.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/yash1.JPG",
+    image: "/MLSA_WEBSITE/alumni_photo/yashGupta.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/yash-gupta-b59877280/",
       email: "yashg031124@gmail.com",
@@ -34,7 +43,7 @@ export const alumniData = [
     title: "Muskan Jain",
     description:
       "Lead, proficient in Java and Python, blending AI with creativity.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/MUSKAN2.jpg",
+    image: "/MLSA_WEBSITE/alumni_photo/muskanJain.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/muskanjain1702/",
       email: "muskanjain1702@gmail.com",
@@ -45,7 +54,7 @@ export const alumniData = [
     title: "Yagyansh Singh Deshwal",
     description:
       "Head of Operations, skilled in Python, SQL, and event coordination.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/yagyansh.jpg",
+    image: "/MLSA_WEBSITE/alumni_photo/yagyansh.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/yagyansh-singh-deshwal/",
       email: "yagyanshsinghdeshwal@gmail.com",
@@ -57,7 +66,7 @@ export const alumniData = [
     title: "Suryansh",
     description:
       "Tech Head, leveraging MERN stack and DevOps for seamless solutions.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/suryansh.png",
+    image: "/MLSA_WEBSITE/alumni_photo/suryansh.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/suryansh-patwal/",
       email: "suryanshpatwal@gmail.com",
@@ -68,7 +77,7 @@ export const alumniData = [
     title: "Tanushka Kashyap",
     description:
       "Content Head, passionate about Blockchain, Java, and frontend design.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/tanushka.jpg",
+    image: "/MLSA_WEBSITE/alumni_photo/tanushka.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/tanushka-kashyap-3b5a28211/",
       email: "tanushkakashyap506@gmail.com",
@@ -80,7 +89,7 @@ export const alumniData = [
     title: "Anmol Kumar",
     description:
       "Graphics Head, blending aesthetics and frontend to build great visuals.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/anmol.jpg",
+    image: "/MLSA_WEBSITE/alumni_photo/anmol.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/anmolkumar01/",
       email: "anmolkumar.cod01@gmail.com",
@@ -91,7 +100,7 @@ export const alumniData = [
     title: "Pari Agarwal",
     description:
       "Outreach Head, skilled communicator bringing developer’s touch to PR.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/Pari.jpg",
+    image: "/MLSA_WEBSITE/alumni_photo/pari.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/pari-agarwal-3153bb290/",
       email: "agarwalpari329@gmail.com",
@@ -102,7 +111,7 @@ export const alumniData = [
     title: "Asit Upadhyay",
     description:
       "Media Head, storyteller capturing moments with C++ and DSA skills.",
-    image: "/MLSA_WEBSITE/Domain_Heads_photo/ASIT_UPADHYAY.jpg",
+    image: "/MLSA_WEBSITE/alumni_photo/asit.webp",
     socials: {
       linkedin: "https://www.linkedin.com/in/asit-upadhyay-5b469a207/",
       email: "asit.upadhyay793@gmail.com",

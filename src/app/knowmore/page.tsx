@@ -1,4 +1,5 @@
 "use client";
+
 import ImageCarousel from "@/components/ImageCarousel";
 import { TextAnimate } from "@/components/magicui/text-animate";
 import { Users2, Calendar, Trophy, Building2 } from "lucide-react";
@@ -53,27 +54,27 @@ export default function KnowMore() {
   ];
 
   const stats = [
-    { value: "4000+", label: "Community Members" },
-    { value: "1000+", label: "Event Registrations" },
-    { value: "30+", label: "Total Events" },
-    { value: "14+", label: "Industry Partners" },
+    { value: "6000+", label: "Community Members" },
+    { value: "1300+", label: "Event Registrations" },
+    { value: "45+", label: "Total Events" },
+    { value: "20+", label: "Industry Partners" },
   ];
 
   const sponsors = [
     "Reskill Ecosystem",
-    "Bobble Fanstore",
-    "Microsystem Azure",
     "Squareboat",
     "Azure Developer Community",
-    "Devfolio",
-    "Polygon",
-    "ETHIndia",
-    "GitHub",
-    "Virtual Protocol",
-    "Tekshila AI",
-    "Quill Audits",
-    "Tezos",
-    "Dcornerr",
+    "ID8NXT",
+    "MAILEN.AI",
+    "ENDLESS DOMAINS",
+    "FETCH.AI INNOVATION LAB",
+    "Gfg",
+    "Github",
+    ".XYZ",
+    "Interview buddy ",
+    "Code Crafters"
+    ,"Acic",
+    "Interview cake"
   ];
 
 
