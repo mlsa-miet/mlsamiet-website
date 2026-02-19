@@ -70,13 +70,13 @@ const graphicsTeam = [
     imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Anushka Garg _Graphics .jpg",
     imagePosition: "top" as const,
   },
-    {
+  {
     name: "Dherya Pratap Singh",
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/Graphic team/IMG_20251103_171049.jpg",
     imagePosition: "top" as const,
 
-  },
+  }, 
   {
     name: "Rupal Agrawal",
     imageUrl: "/MLSA_WEBSITE/volunteer_photo/Graphic team/Rupal Agrawal _Graphics.jpg",
@@ -130,7 +130,6 @@ const contentTeam = [
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/Content team/Srishti_Content .jpg",
   },
- ,
   
 ];
 
