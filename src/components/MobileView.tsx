@@ -19,7 +19,7 @@ const MobileView = ({ visible, onClose }: MobileMenuProps) => {
     <div className="fixed inset-x-0 top-[38px] z-50 md:hidden">
       <div className="h-screen px-4 py-4 shadow-lg backdrop-blur-lg">
         <div className="mx-auto max-w-[1920px]">
-          <NavbarItem href="https://mlsamiet.vercel.app/" mobileView={true} className="text-primary font-extrabold" onClick={handleClick}>
+          <NavbarItem href="https://mlsamiet.site/" mobileView={true} className="text-primary font-extrabold" onClick={handleClick}>
             Home
           </NavbarItem>
           <NavbarItem href="/knowmore" mobileView={true} className="text-primary font-extrabold" onClick={handleClick}>
