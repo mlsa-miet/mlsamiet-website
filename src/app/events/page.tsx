@@ -4,7 +4,21 @@ import { EventLayout } from "@/components/EventLayout";
 
 export default function Event() {
   const eventData = [
-    {
+     {
+      title: "SAMAARAMBH 3.O",
+      body: " Samaarambh 3.O, the flagship event of MLSA MIET, was a remarkable celebration of technology, community, and innovation, hosted at the Microsoft Office, Gurugram. With 1200+ registrations and 180+ enthusiastic participants, the event truly reflected the growing strength of our 6000+ member community. Featuring engaging sessions like “Build Your First AI Agent”, explorations of the Fetch.Ai ecosystem, and insightful discussions on the future of web3 by Endless Domains. Samaarambh brought together inspiring voices from across the tech space, including Shubham Shakti, Dev Chauhan, and Sarthak Jain. A key highlight of the event was the product launch of Mailen.AI, adding an exciting dimension of real-world innovation to the experience. With the support of 20+ industry partners, the event created a vibrant platform for learners to explore emerging technologies, collaborate on ideas, and experience the spirit of community-driven growth. Samaarambh 3.O wasn’t just an event — it was a gateway to innovation and a milestone in MLSA MIET’s journey of impact.",
+      button: "Explore Samaarambh 3.O",
+      src: "/MLSA_WEBSITE/event_photos/samaarambh.jpeg",
+      sectionId: "samaarambh3",
+    },
+     {
+      title: "SalesForce session",
+      body: "The Build Your Agent Workshop on Salesforce Agentforce, organized by MLSA MIET on 3rd November 2025, was thoughtfully designed to provide students with an immersive and hands-on exposure to cloud and AI-driven technologies. Led by Mr. Sarthak Jain, the session enabled participants to actively build and customize their own intelligent AI agents while working on real-world implementations using Salesforce Agentforce. Through guided demonstrations, interactive tasks, and practical exercises, students gained a strong understanding of automation, cloud-based workflows, and modern AI solutions. This event was not just a workshop—it was a premium learning experience that bridged the gap between theory and practice, empowering participants with industry-relevant skills, practical insights, and meaningful technical exposure aligned with current technological trends.",
+      button: "Explore Selsforce",
+      src: "/MLSA_WEBSITE/event_photos/selesforce.jpeg",
+      sectionId: "selesforce",
+    },
+    { 
       title: "DevGathering 2K25",
       body: "DevGathering 2K25, the flagship 32-hour hackathon of MLSA MIET, was a spectacular celebration of innovation, teamwork, and creativity! 🚀 Hosted at MIET Meerut, the event witnessed 200+ participants across 55 shortlisted teams battling it out to solve real-world challenges through code and design. The Top 10 teams pitched before an esteemed jury from Microsoft, GitHub, and D.E. Shaw, showcasing cutting-edge solutions with passion and grit. Winners were crowned, trophies and goodies awarded, and memories created but beyond the prizes, every participant left with skills, confidence, and the spirit of collaboration. ✨ DevGathering 2K25 wasn’t just a hackathon, it was a movement of creators, doers, and dreamers. 💡",
       button: "Explore DevGathering 2k25",

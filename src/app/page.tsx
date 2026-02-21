@@ -49,7 +49,7 @@ const testimonials = [
       "A tech enthusiast scaling technology, leveraging web development, MERN stack, and DevOps to build seamless solutions. ",
     name: "Ankit Kumar",
     designation: "Tech Head",
-    src: "/MLSA_WEBSITE/Domain_Heads_photo/Ankit.jpg",
+    src: "/MLSA_WEBSITE/Domain_Heads_photo/Ankit.webp",
     social: {
       commudle: "https://www.commudle.com/users/Suryanshpatwal1",
       linkedin: "https://www.linkedin.com/in/i-ankit01/",
@@ -61,7 +61,7 @@ const testimonials = [
       "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
     name: "Aayushi",
     designation: "Tech Head",
-    src: "/MLSA_WEBSITE/Domain_Heads_photo/aayushi1.jpg", 
+    src: "/MLSA_WEBSITE/Domain_Heads_photo/aayushi.jpg", 
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
 linkedin: "https://www.linkedin.com/in/aayushi-nagar-688642279/",

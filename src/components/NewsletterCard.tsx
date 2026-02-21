@@ -100,7 +100,7 @@ const NewsletterCard = () => {
   
 
   
-  const getPositionClasses = (index) => {
+  const getPositionClasses = (index: any) => {
     
     if (elements.length === 0) return "";
 

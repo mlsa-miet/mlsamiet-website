@@ -135,6 +135,7 @@ const samaarambh3Array = [
   "https://res.cloudinary.com/davfze0e8/image/upload/v1770047730/IMG_2454_vu7ldh.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1770048290/IMG_2203_ojlrrz.jpg",
   "https://res.cloudinary.com/davfze0e8/image/upload/v1770045497/IMG_2466_g785sn.jpg"
+
 ];
 // Combine all images into one array
 
