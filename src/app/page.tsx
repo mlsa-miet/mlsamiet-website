@@ -10,149 +10,149 @@ import SponsorsSection from "@/components/sponsers";
 const testimonials = [
   {
     quote:
-      "A dynamic lead at MLSA MIET, passionate about AWS, development, and scalable applications, driving impactful// innovations.",
+      "An emerging software developer and Beta MLSA focused on cloud technologies, application development, and scalable systems, driving impactful, student-led community initiatives.",
     name: "Pranav Bansal",
     designation: "Lead",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Pranav.jpg",
     social: {
       commudle: "https://www.commudle.com/users/yashg",
       linkedin: "https://www.linkedin.com/in/pranav-bansal-0b91412aa/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      email: "yashg031124@gmail.com",
+      email: "work.pranav.bansal@gmail.com",
     },
   },
   {
  quote:
-   "A visionary leader at MLSA MIET, proficient in Java and Python, blending AI expertise with social media enthusiasm. ",
+   "An MLSA Lead with a strong interest in Cloud and AI, driven by innovation, collaboration, and empowering students through real-world learning opportunities. ",
     name: "Avni Gupta",
     designation: "Lead",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Avni.jpg",
     social: {
       commudle: "https://www.commudle.com/users/Muskanjain1702",
       linkedin: "https://www.linkedin.com/in/avni-gupta-186366281/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-      email: "muskanjain1702@gmail.com",
+      email: "avnim9247@gmail.com",
     },
   },
   {
    quote:
-     "A cheerful and dedicated soul ensuring smooth events, skilled in Python, SQL, C, and DSA, making moments memorable",
+     "An operations-focused leader ensuring seamless planning, coordination, and efficient execution of MLSA MIET initiatives.",
     name: "Kushagra Sharma",
     designation: "Head Of Operations",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Kushagra.jpg",
     social: {
      commudle:"https://www.commudle.com/users/3e8b79ce2ba94f96e865be6a5fee0fc9",
      linkedin: "https://www.linkedin.com/in/kushagra-sharma-6b2347245/",
-     email: "yagyanshsinghdeshwal@gmail.com",
+     email: "work.kushagra25@gmail.com",
     },
   },
   {
     quote:
-      "A tech enthusiast scaling technology, leveraging web development, MERN stack, and DevOps to build seamless solutions. ",
+      "A tech enthusiast scaling technology, A full-stack developer and DSA enthusiast dedicated to building scalable solutions and fostering a strong hands-on technical culture within the community. web development, MERN stack, and DevOps to build seamless solutions. ",
     name: "Ankit Kumar",
     designation: "Tech Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Ankit.webp",
     social: {
       commudle: "https://www.commudle.com/users/Suryanshpatwal1",
       linkedin: "https://www.linkedin.com/in/i-ankit01/",
-      email: "suryanshpatwal@gmail.com",
+      email: "its.ankit.acc@gmail.com",
     },
   },
   {
     quote:
-      "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
+      "Enjoys working across both hardware and software, with experience in sensors, CanSat, hobby rocketry, and web technologies. Focused on DSA and Generative AI, contributing to MLSA MIET’s technical growth. ",
     name: "Aayushi",
     designation: "Tech Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/aayushi.jpg", 
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
 linkedin: "https://www.linkedin.com/in/aayushi-nagar-688642279/",
-email: "asit.upadhyay793@gmail.com",
+email: "moralaayushi@gmail.com",
     },
   },
   {
   quote:
-    "A creative mind behind content, passionate about Blockchain, Java, and frontend, crafting engaging and tech-driven narratives.",
+    "An AI Engineer and technical writer leading content at MLSA MIET, crafting meaningful narratives and technical communication aligned with the community’s vision.",
     name: "Geetanshi Goel",
     designation: "Content Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Geetanshi.jpg",
     social: {
     linkedin: "https://www.linkedin.com/in/geetanshi-goel-49ba5832b/",
-    email: "tanushkakashyap506@gmail.com",
+    email: "geetanshi.goel.cse.2023@miet.ac.in",
     commudle:
       "https://www.commudle.com/users/da6ac7497d07e91ee07ea2683c57a17c",
     },
   },
   {
    quote:
-     "An expert bringing graphics to life, blending aesthetics with functionality, backed by a strong grip on frontend.",
+     "Graphics Lead at MLSA MIET, designing visually consistent and engaging creatives to strengthen the community’s digital presence. ",
     name: "Bhavya Gupta",
     designation: "Graphics Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Bhavya.jpg",
     social: {
      commudle: "https://www.commudle.com/users/anmolkumar001",
      linkedin: "https://www.linkedin.com/in/anmolkumar01/",
-     email: "anmolkumar.cod01@gmail.com",
+     email: "itsbgupta004@gmail.com",
     },
   },
   {
     quote:
-      "A skilled communicator and multitasker, leading PR and outreach while bringing a developer’s touch to collaborations.",
+      "Manages internal outreach at MLSA MIET, strengthening communication, volunteer engagement, and internal collaboration.",
     name: "Ansh Goyal",
     designation: "Outreach Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/AnshGoyal.jpg",
     social: {
      commudle: "https://www.commudle.com/users/Pariagarwal",
      linkedin: "linkedin.com/in/anshgoyal15032007",
-     email: "agarwalpari329@gmail.com",
+     email: "anshgoyal15032007@gmail.com",
     },
   },
   {
   quote:
-    "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
+    "Leads external outreach at MLSA MIET by building collaborations, managing partnerships, and expanding the community's reach.",
     name: "Praffullit Bhattacharya",
     designation: "Outreach Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Prafullit.jpg",
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
 linkedin: "https://www.linkedin.com/in/prafullit-bhattacharya-9443b4306/",
-email: "asit.upadhyay793@gmail.com",
+email: "bprafullit@gmail.com",
     },
   },
   {
 quote:
-  "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
+  "Social Media Lead at MLSA MIET, managing digital outreach and engagement through strategic content and community storytelling.",
     name: "Yash Goyal",
     designation: "Socials Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/YashGoyal.jpg",
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
 linkedin: "https://www.linkedin.com/in/yash-goyal-b3bb8129a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-email: "asit.upadhyay793@gmail.com",
+email: "yash.goyal.csit.2023@miet.ac.in",
     },
   },
   {
    quote:
-     "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
+     "Workflow Manager at MLSA MIET, streamlining processes and coordinating tasks to ensure smooth execution of initiatives.",
     name: "Daksh Goswami",
     designation: "Workflow Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/Daksh.jpg",
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
 linkedin: "https://www.linkedin.com/in/daksh-goswami-9607712ba/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-email: "asit.upadhyay793@gmail.com",
+email: "dakshgoswami1309@gmail.com",
     },
   },
 
   
   {
    quote:
-     "A storyteller capturing impactful moments, with competitive programming skills with expertise in C, C++, and DSA.",
+     "A creative designer leading the visual identity of MLSA MIET through impactful design, brand consistency, and engaging visuals.",
     name: "Yojit Tyagi",
     designation: "Visuals Head",
     src: "/MLSA_WEBSITE/Domain_Heads_photo/visuals2.jpg",
     social: {
 commudle: "https://www.commudle.com/users/asitupadhyay",
 linkedin: "https://www.linkedin.com/in/yojit-tyagi-6a9429316/",
-email: "asit.upadhyay793@gmail.com",
+email: "yojittyagi4@gmail.com",
     },
   },
 ];

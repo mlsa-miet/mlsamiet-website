@@ -11,45 +11,47 @@ export default function KnowMore() {
       src: "/mlsamietlogo1.png",
       objectPosition: "center",
     },
+    
     {
-      src: "/MLSA_WEBSITE/EVENT_PHOTO/SAMAARAMBH 2.0/IMG_1001.JPG",
+      src: "/MLSA_WEBSITE/event_photos/photo1.jpeg",
       objectPosition: "center",
     },
     {
-      src: "/MLSA_WEBSITE/EVENT_PHOTO/AVSAR/PXL_20241014_105027481.jpg",
+      src: "/MLSA_WEBSITE/event_photos/photo2.jpeg",
       objectPosition: "center",
     },
     {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.31 (1).jpeg",
+      src: "/MLSA_WEBSITE/event_photos/photo3.jpeg",
       objectPosition: "center",
     },
     {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.31.jpeg",
+      src: "/MLSA_WEBSITE/event_photos/photo4.jpeg",
       objectPosition: "center",
     },
     {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.32 (1).jpeg",
+      src: "/MLSA_WEBSITE/event_photos/photo5.jpeg",
       objectPosition: "center",
     },
     {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.32 (2).jpeg",
+      src: "/MLSA_WEBSITE/event_photos/photo6.jpeg",
       objectPosition: "center",
     },
+    
     {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.32.jpeg",
-      objectPosition: "center",
-    },
-    {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.33 (1).jpeg",
-      objectPosition: "center",
-    },
-    {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.33.jpeg",
-      objectPosition: "center",
-    },
-    {
-      src: "/MLSA_WEBSITE/Sponsers_photos/WhatsApp Image 2025-02-23 at 17.17.34.jpeg",
+      src: "/MLSA_WEBSITE/Sponsers_photos/vaniMittal.jpeg",
       objectPosition: "top",
+    },
+    {
+      src: "/MLSA_WEBSITE/event_photos/photo8.jpeg",
+      objectPosition: "center",
+    },
+    {
+      src: "/MLSA_WEBSITE/event_photos/photo9.jpeg",
+      objectPosition: "center",
+    },
+    {
+      src: "/MLSA_WEBSITE/event_photos/photo7.jpeg",
+      objectPosition: "center",
     },
   ];
 

@@ -8,14 +8,6 @@ const SponsorsSection = () => {
             image: "/MLSA_WEBSITE/sponsers_logo/reskill.png" // Update with actual paths
         },
         {
-            name: "Bobble Fanstore",
-            image: "/MLSA_WEBSITE/sponsers_logo/bobblefanstore.png"
-        },
-        {
-            name: "Microsystem Azure",
-            image: "/MLSA_WEBSITE/sponsers_logo/azure.png"
-        },
-        {
             name: "Squareboat",
             image: "/MLSA_WEBSITE/sponsers_logo/squareboat.png"
         },
@@ -24,28 +16,38 @@ const SponsorsSection = () => {
             image: "/MLSA_WEBSITE/sponsers_logo/azuredev.png"
         },
         {
-            name: "Devfolio",
-            image: "/MLSA_WEBSITE/sponsers_logo/devfolio.png"
+            name: "ID8NXT",
+            image: "/MLSA_WEBSITE/sponsers_logo/ID8NXT.jpg"
         },
         {
-            name: "Polygon",
-            image: "/MLSA_WEBSITE/sponsers_logo/polygon.png"
+            name: "Microsystem Azure",
+            image: "/MLSA_WEBSITE/sponsers_logo/azure.png"
+        },
+        
+        
+        {
+            name: "ENDLESS DOMAINS",
+            image: "/MLSA_WEBSITE/sponsers_logo/ENDLESS DOMAINS.webp"
         },
         {
-            name: "ETHIndia",
-            image: "/MLSA_WEBSITE/sponsers_logo/ethindia.png"
+            name: "FETCH.AI INNOVATON LAB",
+            image: "/MLSA_WEBSITE/sponsers_logo/FETCH.jpg"
+        },
+        {
+            name: "GFG",
+            image: "/MLSA_WEBSITE/sponsers_logo/GFG.jpg"
         },
         {
             name: "GitHub",
             image: "/MLSA_WEBSITE/sponsers_logo/github.png"
         },
         {
-            name: "Virtual Protocol",
-            image: "/MLSA_WEBSITE/sponsers_logo/virtualprotocol.png"
+            name: ".XYZ",
+            image: "/MLSA_WEBSITE/sponsers_logo/XYZ.jpg"
         },
         {
-            name: "Tekshila AI",
-            image: "/MLSA_WEBSITE/sponsers_logo/tekshila.png"
+            name: "Interview Buddy",
+            image: "/MLSA_WEBSITE/sponsers_logo/INTERVIEW BUDDY.png"
         },
         {
             name: "Quill Audits",
@@ -56,8 +58,8 @@ const SponsorsSection = () => {
             image: "/MLSA_WEBSITE/sponsers_logo/tezos.png"
         },
         {
-            name: "Dcornerr",
-            image: "/MLSA_WEBSITE/sponsers_logo/dcornerr.png"
+            name: "Interview Cake",
+            image: "/MLSA_WEBSITE/sponsers_logo/INTERVIEW CAKE.png"
         }
     ];
 

@@ -62,7 +62,7 @@ const Navbar = () => {
             <NavbarItem href="/events">Events</NavbarItem>
             <NavbarItem href="/gallery">Gallery</NavbarItem>
             <NavbarItem href="/members">Team</NavbarItem>
-            <NavbarItem href="/alumni-Rakshit" > Alumni</NavbarItem>
+            <NavbarItem href="/alumni" > Alumni</NavbarItem>
            
 
             <NavbarItem href="/contactus">Contact Us</NavbarItem>

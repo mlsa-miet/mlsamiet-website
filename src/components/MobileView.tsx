@@ -34,6 +34,10 @@ const MobileView = ({ visible, onClose }: MobileMenuProps) => {
           <NavbarItem href="/members" mobileView={true} className="text-primary font-extrabold" onClick={handleClick}>
             Team
           </NavbarItem>
+          <NavbarItem href="/alumni" mobileView={true} className="text-primary font-extrabold" onClick={handleClick}>
+            Alumni
+          </NavbarItem>
+    
           <NavbarItem href="/contactus" mobileView={true} className="text-primary font-extrabold" onClick={handleClick}>
             Contact Us
           </NavbarItem>
