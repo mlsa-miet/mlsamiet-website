@@ -18,6 +18,12 @@ export default function Event() {
       src: "/MLSA_WEBSITE/event_photos/selesforce.jpeg",
       sectionId: "selesforce",
     },
+      {
+      title: "Avsar 2.0",
+      body: "AVSAR 2.0 is a flagship initiative of Microsoft Learn Student Ambassadors (MLSA) MIET, dedicated to empowering students through structured learning, mentorship, and collaborative growth. Designed as a platform where innovation meets leadership, AVSAR encourages young minds to explore technology, build industry-relevant skills, and become confident professionals within a thriving tech community. AVSAR 2.0 – The Orientation marked an important milestone by formally welcoming new members and introducing first-year students to the vision and journey of MLSA MIET. Featuring an insightful keynote by Rohit Yadav on “How to Get Into Microsoft,” reflections on the community’s journey by Kushagra (HOO, MLSA MIET), and an engaging interactive quiz led by Avni, the event reflected MLSA MIET’s continued commitment to nurturing talent and enabling growt",
+      src: "/MLSA_WEBSITE/event_photos/avsar.jpeg",
+      sectionId: "Avsar2.0",
+    },
     { 
       title: "DevGathering 2K25",
       body: "DevGathering 2K25, the flagship 32-hour hackathon of MLSA MIET, was a spectacular celebration of innovation, teamwork, and creativity! 🚀 Hosted at MIET Meerut, the event witnessed 200+ participants across 55 shortlisted teams battling it out to solve real-world challenges through code and design. The Top 10 teams pitched before an esteemed jury from Microsoft, GitHub, and D.E. Shaw, showcasing cutting-edge solutions with passion and grit. Winners were crowned, trophies and goodies awarded, and memories created but beyond the prizes, every participant left with skills, confidence, and the spirit of collaboration. ✨ DevGathering 2K25 wasn’t just a hackathon, it was a movement of creators, doers, and dreamers. 💡",
