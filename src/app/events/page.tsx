@@ -16,14 +16,14 @@ export default function Event() {
       body: "The Build Your Agent Workshop on Salesforce Agentforce, organized by MLSA MIET on 3rd November 2025, was thoughtfully designed to provide students with an immersive and hands-on exposure to cloud and AI-driven technologies. Led by Mr. Sarthak Jain, the session enabled participants to actively build and customize their own intelligent AI agents while working on real-world implementations using Salesforce Agentforce. Through guided demonstrations, interactive tasks, and practical exercises, students gained a strong understanding of automation, cloud-based workflows, and modern AI solutions. This event was not just a workshop—it was a premium learning experience that bridged the gap between theory and practice, empowering participants with industry-relevant skills, practical insights, and meaningful technical exposure aligned with current technological trends.",
       button: "Explore Selsforce",
       src: "/MLSA_WEBSITE/event_photos/selesforce.jpeg",
-      sectionId: "selesforce",
+      sectionId: "SalesForceEventArray",
     },
       {
       title: "Avsar 2.0",
       body: "AVSAR 2.0 is a flagship initiative of Microsoft Learn Student Ambassadors (MLSA) MIET, dedicated to empowering students through structured learning, mentorship, and collaborative growth. Designed as a platform where innovation meets leadership, AVSAR encourages young minds to explore technology, build industry-relevant skills, and become confident professionals within a thriving tech community. AVSAR 2.0 – The Orientation marked an important milestone by formally welcoming new members and introducing first-year students to the vision and journey of MLSA MIET. Featuring an insightful keynote by Rohit Yadav on “How to Get Into Microsoft,” reflections on the community’s journey by Kushagra (HOO, MLSA MIET), and an engaging interactive quiz led by Avni, the event reflected MLSA MIET’s continued commitment to nurturing talent and enabling growt",
         button: "Explore Avsar 2.0 ",
       src: "/MLSA_WEBSITE/event_photos/avsar.jpeg",
-      sectionId: "Avsar2.0",
+      sectionId: "avasar-2",
     },
     { 
       title: "DevGathering 2K25",
