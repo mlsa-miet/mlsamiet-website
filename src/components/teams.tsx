@@ -14,7 +14,7 @@ const technicalTeam = [
   {
     name: "Azan ali",
     imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/technical team/Azanalimlsa.webp",
+      "/MLSA_WEBSITE/volunteer_photo/technical team/azaanali_technical.webp",
   },
   
    
