@@ -21,6 +21,7 @@ export default function Event() {
       {
       title: "Avsar 2.0",
       body: "AVSAR 2.0 is a flagship initiative of Microsoft Learn Student Ambassadors (MLSA) MIET, dedicated to empowering students through structured learning, mentorship, and collaborative growth. Designed as a platform where innovation meets leadership, AVSAR encourages young minds to explore technology, build industry-relevant skills, and become confident professionals within a thriving tech community. AVSAR 2.0 – The Orientation marked an important milestone by formally welcoming new members and introducing first-year students to the vision and journey of MLSA MIET. Featuring an insightful keynote by Rohit Yadav on “How to Get Into Microsoft,” reflections on the community’s journey by Kushagra (HOO, MLSA MIET), and an engaging interactive quiz led by Avni, the event reflected MLSA MIET’s continued commitment to nurturing talent and enabling growt",
+        button: "Explore Avsar 2.0 ",
       src: "/MLSA_WEBSITE/event_photos/avsar.jpeg",
       sectionId: "Avsar2.0",
     },
