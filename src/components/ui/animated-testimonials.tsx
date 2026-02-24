@@ -139,7 +139,7 @@ export const AnimatedTestimonials = ({
                 initial={{ opacity: 0, y: 10 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3 }}
-                className="flex gap-3 mt-6"
+                className="flex gap-3 mt-6 md:mb-6"
               >
                 {testimonials[active].social?.twitter && (
                   <a

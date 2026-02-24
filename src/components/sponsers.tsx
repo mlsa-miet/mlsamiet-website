@@ -20,8 +20,8 @@ const SponsorsSection = () => {
             image: "/MLSA_WEBSITE/sponsers_logo/ID8NXT.jpg"
         },
         {
-            name: "Microsystem Azure",
-            image: "/MLSA_WEBSITE/sponsers_logo/azure.png"
+            name: "MAILEN.AI",
+            image: "/MLSA_WEBSITE/sponsers_logo/mailen.jpeg"
         },
         
         
@@ -50,17 +50,25 @@ const SponsorsSection = () => {
             image: "/MLSA_WEBSITE/sponsers_logo/INTERVIEW BUDDY.png"
         },
         {
-            name: "Quill Audits",
-            image: "/MLSA_WEBSITE/sponsers_logo/quilaudits.png"
+            name: "Code Crafters",
+            image: "/MLSA_WEBSITE/sponsers_logo/codeCrafters.jpeg"
         },
         {
-            name: "Tezos",
-            image: "/MLSA_WEBSITE/sponsers_logo/tezos.png"
+            name: "Acic",
+            image: "/MLSA_WEBSITE/sponsers_logo/acic.png"
         },
         {
             name: "Interview Cake",
             image: "/MLSA_WEBSITE/sponsers_logo/INTERVIEW CAKE.png"
-        }
+        },
+        {
+            name: "Bobble Fanstore",
+            image: "/MLSA_WEBSITE/sponsers_logo/bobblefanstore.png"
+        },
+        {
+            name: "Devfolio",
+            image: "/MLSA_WEBSITE/sponsers_logo/devfolio.png"
+        },
     ];
 
     return (
