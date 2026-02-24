@@ -121,11 +121,6 @@ const contentTeam = [
 
   },
   {
-    name: "Pranav Raghav",
-    imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/Content team/Pranav Raghav_content.jpg",
-  },
-  {
     name: "Srishti",
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/Content team/Srishti_Content .jpg",
@@ -181,7 +176,7 @@ const prTeam = [
   {
     name: "Prafullit Bhattacharya",
     imageUrl:
-      "/MLSA_WEBSITE/Domain_Heads_photo/Prafullit.webp",
+      "MLSA_WEBSITE/Domain_Heads_photo/Prafullit.jpg",
   },
   {
     name: "Ansh Goyal",
@@ -241,7 +236,7 @@ const socialTeam = [
       "/MLSA_WEBSITE/volunteer_photo/social team/Prashant_Social.jpg",
   },
    {
-    name: "Samiya shariq",
+    name: "Samiya Shariq",
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/social team/SamiyaShariq_Socials.jpg",
   },
@@ -265,7 +260,7 @@ const visualTeam = [
       "/MLSA_WEBSITE/volunteer_photo/visual team/AryanVisuals.webp"
   },
   {
-    name: "Aryan dhiman",
+    name: "Aryan Dhiman",
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/visual team/AryanDhiman_visuals.jpg"
   },
@@ -275,7 +270,7 @@ const visualTeam = [
       "/MLSA_WEBSITE/volunteer_photo/visual team/IMG_20251110_192208.jpg",
   },
   {
-    name: "Vansh yadav",
+    name: "Vansh Yadav",
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/visual team/Vansh Yadav _Visuals.jpg",
   },
@@ -287,11 +282,6 @@ const workflowTeam = [
     name: "Daksh Goswami",
     imageUrl:
       "/MLSA_WEBSITE/Domain_Heads_photo/Daksh.webp",
-  },
-    {
-    name: "Lakshya Agarwal",
-    imageUrl:
-      "/MLSA_WEBSITE/volunteer_photo/workflow team/Lakshya Agarwal __Workflow.jpg",
   },
    {
     name: "Naina Yadav",
