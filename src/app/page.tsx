@@ -98,7 +98,7 @@ email: "moralaayushi@gmail.com",
       "Manages internal outreach at MLSA MIET, strengthening communication, volunteer engagement, and internal collaboration.",
     name: "Ansh Goyal",
     designation: "Outreach Head",
-    src: "/MLSA_WEBSITE/Domain_Heads_photo/AnshGoyal.jpg",
+    src: "/MLSA_WEBSITE/Domain_Heads_photo/AnshGoyal.webp",
     social: {
      commudle: "https://www.commudle.com/users/anshgoyal1503",
      linkedin: "linkedin.com/in/anshgoyal15032007",
