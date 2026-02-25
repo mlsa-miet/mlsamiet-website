@@ -31,7 +31,7 @@ export const alumniData = [
   {
     title: "Vani Mittal",
     description:
-      "She founded MLSA MIET in Feb 2023, with a vision of growing, educating and thriving within the community.",
+      "Founded MLSA MIET in Feb 2023, with a vision of growing, educating and thriving within the community.",
     image: "/MLSA_WEBSITE/alumni_photo/VaniMittal.jpeg",
     socials: {
       linkedin: "https://www.linkedin.com/in/vani-mi-ttal?utm_source=share_via&utm_content=profile&utm_medium=member_android",
