@@ -77,7 +77,9 @@ export default function KnowMore() {
     "Interview buddy ",
     "Code Crafters"
     ,"Acic",
-    "Interview cake"
+    "Interview cake",
+    "Bobble Fanstore",
+    "Devfolio",
   ];
 
 
