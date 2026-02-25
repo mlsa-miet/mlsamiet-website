@@ -20,8 +20,13 @@ export default function KnowMore() {
       src: "/MLSA_WEBSITE/event_photos/photo2.jpeg",
       objectPosition: "center",
     },
+    
     {
       src: "/MLSA_WEBSITE/event_photos/photo3.jpeg",
+      objectPosition: "center",
+    },
+    {
+      src: "/MLSA_WEBSITE/event_photos/photo6.jpeg",
       objectPosition: "center",
     },
     {
@@ -30,10 +35,6 @@ export default function KnowMore() {
     },
     {
       src: "/MLSA_WEBSITE/event_photos/photo5.jpeg",
-      objectPosition: "center",
-    },
-    {
-      src: "/MLSA_WEBSITE/event_photos/photo6.jpeg",
       objectPosition: "center",
     },
     
