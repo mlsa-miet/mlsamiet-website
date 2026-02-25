@@ -33,19 +33,19 @@ export default function KnowMore() {
       src: "/MLSA_WEBSITE/event_photos/photo4.jpeg",
       objectPosition: "center",
     },
-    {
-      src: "/MLSA_WEBSITE/event_photos/photo5.jpeg",
-      objectPosition: "center",
-    },
+    // {
+    //   src: "/MLSA_WEBSITE/event_photos/photo5.jpeg",
+    //   objectPosition: "center",
+    // },
     
     {
       src: "/MLSA_WEBSITE/Sponsers_photos/vaniMittal.jpeg",
       objectPosition: "top",
     },
-    {
-      src: "/MLSA_WEBSITE/event_photos/photo8.jpeg",
-      objectPosition: "center",
-    },
+    // {
+    //   src: "/MLSA_WEBSITE/event_photos/photo8.jpeg",
+    //   objectPosition: "center",
+    // },
     {
       src: "/MLSA_WEBSITE/event_photos/photo9.jpeg",
       objectPosition: "center",
