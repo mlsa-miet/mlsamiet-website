@@ -29,6 +29,17 @@ export function Alumni() {
 
 export const alumniData = [
   {
+    title: "Vani Mittal",
+    description:
+      "Lead, passionate about AWS, development, and scalable applications.",
+    image: "/MLSA_WEBSITE/alumni_photo/VaniMittal.jpeg",
+    socials: {
+      linkedin: "https://www.linkedin.com/in/vani-mi-ttal?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      email: "vani9045060450@gmail.com",
+      commudle: "https://www.commudle.com/users/VaniM",
+    },
+  },
+  {
     title: "Yash Gupta",
     description:
       "Lead, passionate about AWS, development, and scalable applications.",
@@ -63,14 +74,14 @@ export const alumniData = [
     },
   },
   {
-    title: "Suryansh",
+    title: "Dhruv Gupta ",
     description:
       "Tech Head, leveraging MERN stack and DevOps for seamless solutions.",
-    image: "/MLSA_WEBSITE/alumni_photo/suryansh.webp",
+    image: "/MLSA_WEBSITE/alumni_photo/dhruvGupta.webp",
     socials: {
-      linkedin: "https://www.linkedin.com/in/suryansh-patwal/",
-      email: "suryanshpatwal@gmail.com",
-      commudle: "https://www.commudle.com/users/Suryanshpatwal1",
+      linkedin: "https://www.linkedin.com/in/dhruv-gupta-75a433272?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+      email: "dhruv.gupta.cseai.2022@miet.ac.in",
+      commudle: "https://www.commudle.com/users/dc9ff7d094c78303730dceaf266e37ae",
     },
   },
   {
