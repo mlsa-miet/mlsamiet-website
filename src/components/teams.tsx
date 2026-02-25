@@ -12,7 +12,7 @@ const technicalTeam = [
       "/MLSA_WEBSITE/Domain_Heads_photo/aayushi.jpg",
   },
   {
-    name: "Azan ali",
+    name: "Azan Ali",
     imageUrl:
       "/MLSA_WEBSITE/volunteer_photo/technical team/azaanali_technical.webp",
   },
@@ -22,7 +22,7 @@ const technicalTeam = [
     name: "Mohd Faishal",
     imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/Mo Faisal_Technical.jpg",
   },{
-    name: "Manu chauhan",
+    name: "Manu Chauhan",
     imageUrl: "/MLSA_WEBSITE/volunteer_photo/technical team/manu_technical.webp",
   },
    
