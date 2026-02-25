@@ -9,6 +9,12 @@ import { Newspaper } from "lucide-react";
 // ====================
 const elements = [
   {
+    title: "January '26",
+    description: "Explore key updates and exciting accomplishments from January 2026.",
+    link: "https://www.commudle.com/communities/191/newsletters/17th-edition-of-mlsa-miet-chronicles-january-2026",
+    icon: <Newspaper className="w-full h-full" />,
+  },
+  {
     title: "October '25",
     description: "Explore key updates and exciting accomplishments from October 2025.",
     link: "https://www.commudle.com/communities/microsoft-learn-student-ambassadors-meerut-institute-of-engineering-and-technology/newsletters/14th-edition-of-mlsa-miet-chronicles-october-2025-78a5f2cd-c4dc-4d48-acb7-b3c0281537fe",

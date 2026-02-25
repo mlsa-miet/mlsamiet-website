@@ -87,7 +87,9 @@ export default function KnowMore() {
     "Commudle",
     "Startup4Nation",
     "ADS Labs",
-    "CSI-SRM"
+    "CSI-SRM",
+    "Spark Tech AI Hub",
+    "Dezhub",
   ];
 
   return (
@@ -192,7 +194,7 @@ export default function KnowMore() {
             ))}
           </div>
           <p className="text-center text-gray-700 mt-8 secondary text-secondary">
-            Supported by 14+ leading sponsors, backed by global and
+            Supported by 20+ leading sponsors, backed by global and
             community-driven brands.
           </p>
         </div>
