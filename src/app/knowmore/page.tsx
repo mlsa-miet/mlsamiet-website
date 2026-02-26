@@ -87,7 +87,7 @@ export default function KnowMore() {
     "Microsoft",
     "Fetch.ai",
     "Commudle",
-    "Startup4Nation",
+    "Startup4 Nation",
     "ADS Labs",
     "CSI-SRM",
     "Spark Tech AI Hub",
